@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Adicionar aluno</h1>
+<h1>Adicionar aluno TOP demais</h1>
 	<form action="sistema" method="post">
 		<input type="hidden" name="comando" value="AdicionarAluno">
 		<div>
